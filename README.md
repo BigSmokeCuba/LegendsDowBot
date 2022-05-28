@@ -1,4 +1,4 @@
-# tguploaderpro
+# LegendsDowBot
 Bot De Telegram : LegendsDowBot , Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba
 
 # Deploy Usando Git Win Y Heroku Cli Desde PC
