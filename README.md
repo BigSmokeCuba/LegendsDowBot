@@ -4,7 +4,7 @@ Bot De Telegram : LegendsDowBot , Descargador gratis de contenido desde internet
 # Deploy Usando Git Win Y Heroku Cli Desde PC
 ```
 (CMD)
-git clone https://github.com/ObisoftDev/LegendsDowBot 
+git clone https://github.com/Kynoz/LegendsDowBot
 git init
 git add .
 git commit -m "OK"
