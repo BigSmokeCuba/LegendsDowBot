@@ -1,10 +1,10 @@
-# LegendsDowBot
-Bot De Telegram : LegendsDowBot , Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba
+# tguploaderpro
+Bot De Telegram : TGUploaderPro v7.0 Fixed , Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba
 
 # Deploy Usando Git Win Y Heroku Cli Desde PC
 ```
 (CMD)
-git clone https://github.com/Kynoz/LegendsDowBot
+git clone https://github.com/ObisoftDev/tguploaderpro 
 git init
 git add .
 git commit -m "OK"
@@ -37,4 +37,4 @@ git push heroku master
 /getdb : Obten la base de datos donde se almacenan la info de los usarios en el bot
 ```
 # Deploy Directo (Heroku)
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kynoz/LegendsDowBot)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ObisoftDev/tguploaderpro)
